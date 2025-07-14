@@ -36,7 +36,7 @@ Get the project running locally with these steps:
 
 ```bash
 
-git clone https://github.com/Zerodistraction-max/Dog-bread-analyser.git
+git clone https://github.com/Debugger-NaN/Dog-Breed-Analyzer.git
 cd Dog-bread-analyser
 
 ```
